@@ -1,0 +1,4 @@
+#Header:Egipt Planet
+#Color:100,70,50,1
+#Description:
+<color=#696969>태양과 가까이 있어 더운 행성</color>

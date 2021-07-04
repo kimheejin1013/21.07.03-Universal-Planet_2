@@ -1,0 +1,4 @@
+#Header:Ice Planet
+#Color:50,50,130,1
+#Description:
+<color=#0000CD>태양과 멀리 있어 추운 행성</color>

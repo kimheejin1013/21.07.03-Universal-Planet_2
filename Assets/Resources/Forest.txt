@@ -1,0 +1,4 @@
+#Header:Forest Planet
+#Color:50,130,50,1
+#Description:
+<color=#20B2AA>태양과 가까운 편이라 식생이 풍부하고 어쩌구</color>

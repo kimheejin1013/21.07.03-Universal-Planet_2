@@ -1,0 +1,4 @@
+#Header:Havay Planet
+#Color:50,100,100,1
+#Description:
+<color=#4682B4>태양과 적당한 거리에 있어 기온이 온화하고 어쩌구</color>
